@@ -1,4 +1,4 @@
-# Creating-a-username
+# Generating-a-username
 This is a very simple code in which i have generated a username from asking the user to input their first and last name.
 This code took the first two letters of the first name and concatinate it with the 3 middle letters of the last name and finally it took the last 2 letter in the first name.
 Here's an example:
